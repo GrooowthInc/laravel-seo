@@ -8,7 +8,7 @@
             "email": "xpromx@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    
     "require": {
         "php": ">=5.6.0",
         "laravel/framework": "~5.2"
